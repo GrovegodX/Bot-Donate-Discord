@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@fortune-inc/tw-voucher": "^1.0.9",
+    "discord.js": "^14.4.0"
+  }
+}
